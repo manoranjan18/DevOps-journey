@@ -1,8 +1,8 @@
 # DevOps-journey
 
-Hi there everyone .I'M S.V.Mano Ranjan who is an devops enthusiast and wanted to achieve more in the devops technology who alsp knows html,css,js also .I have recently completed Google's -UX Design course on coursera where I Have learnt about how to  create a website which should be inclusive to all and also knows to create wire frame and prototypes in figma .Enough of me.
+Hi there everyone .I'M S.V.Mano Ranjan who is an devops enthusiast and wanted to achieve more in the devops technology who also knows html,css,js .I have recently completed Google's -UX Design course on coursera where I Have learnt about how to  create a website which should be inclusive to all and also knows to create wire frame and prototypes in figma .Enough of me.
 
-This repository is mainly focussing on how and what I'm doin in the devops technology and also formulating something in my own style itself
+This repository is mainly focussing on how and what I'm doing in the devops technology and also formulating something in my own style itself
 
 The motivation and idea of this "DevOps as an career" came from three important people as far as in  my view
                                  
@@ -12,11 +12,11 @@ The motivation and idea of this "DevOps as an career" came from three important 
                                     
  These are the people who taught me what is devops and what is DevOps as an career
  
- These three people have seperate kond of roadmap and seperate kind of teaching as well .so if also want to start your journey in devops as an career means you can follow any one of them or you can choose who ever you want because there are plenty of people plenty of choices and plenty of resources  
+ These three people have seperate kind of roadmap and seperate kind of teaching as well .so if also want to start your journey in devops as an career means you can follow any one of them or you can choose who ever you want because there are plenty of people plenty of choices and plenty of resources  
   
 I have followed "kubesimplify Roadmap2022"&"Kunal kushwaha's devops playlist"
   
-The main thing I have learnt from following the road map is that eventhough you have watched their videos and the hands onalso you will not be satisfied and you cannot movng forward with the same speed and with the same energy as you have started your journey 
+The main thing I have learnt from following the road map is that; eventhough you have watched their videos and done the  hands on also you will not be satisfied and you cannot movng forward with the same speed and with the same energy as you have started your journey 
   
 In My point of view "The knowledge you're giving out should be greater then knowledge you're consuming"
  
