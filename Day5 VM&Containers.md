@@ -8,10 +8,13 @@ multiple appications on top of the OS
 
 1.In virtual machines it will be allocating specific amount of hardwares which are used in to run the 
 os 
+
 2.for example if you have the computer of windows means then by using virtual machines you can be able to run ubuntu 
 you can able to run macos etc 
+
 3.In the ubuntu you can able to run multiple applicationns and in mac OS you can able to run multiple 
 applications and as well as in windows 
+
 4.Your computer;s whole hardware and other specs will be divided according to the needs of the OS 
 
 Containers:
